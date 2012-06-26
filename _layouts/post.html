@@ -6,13 +6,13 @@ layout: layout
   <div id="post">
     <h1>{{ post.title }}</h1>
 	<span class="date">
-	{{ if (post.date | date: "%e %B %Y") == 'January' }}
+	{{ if (post.date | date: "%m") == '01' }}
 		Ocak
-	{{ elsif (post.date | date: "%e %B %Y") == 'February' }}
+	{{ elsif (post.date | date: "%m") == '02' }}
 		Şubat
-	{{ elsif (post.date | date: "%e %B %Y") == 'March' }}
+	{{ elsif (post.date | date: "%m") == '03' }}
 		Mart
-	{{ elsif (post.date | date: "%e %B %Y") == 'April' }}
+	{{ elsif (post.date | date: "%m") == '04' }}
 		Nisan
 	{{ endif }}
 	</span>
