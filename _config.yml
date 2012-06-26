@@ -4,6 +4,6 @@ permalink: /:year/:month/:title
 rdiscount extensions: [smart]
 paginate: 19
 title: Onur Baykal Blog
-url: http://onurbaykal.com/
+url: http://onurbaykal.com
 name: Onur Baykal Blog
 description: Yet another personal blog

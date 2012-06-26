@@ -3,9 +3,9 @@ layout: post
 title: Behzat Ç.:Seni Kalbime Gömdüm
 date: 2011-10-28 23:44
 comments: true
-categories: []
+categories: [sinema]
+rating: 3
 ---
-[rating:3/5]
 <img class="alignleft size-medium wp-image-2295" title="Behzat-Ç.-Seni-Kalbime-Gömdüm-2.fragman" src="/uploads/2011/10/Behzat-Ç.-Seni-Kalbime-Gömdüm-2.fragman-300x174.png" alt="" width="300" height="174" />
 Blog'a uzun süredir yazı yazmamamı Behzat Ç. ile bozmaktan daha iyi bir şey olamazdı sanırım. Bunun da bir kıpkıpçılar etkinliğiyle birleşmesi de köri sosu gibi bir şey oldu. Kıpkıpçıları, Radyo Odtü'de Modern Sabahlar dinleyici grubu olarak özetleyebilirim ama bu fazla bir özetleştirme oluyor, o yüzden de tüm kıpkıp camiasından özür diliyorum.
 

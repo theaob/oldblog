@@ -3,9 +3,9 @@ layout: post
 title: Scott Pilgrim vs. The World
 date: 2012-01-29 11:00
 comments: true
-categories: []
+categories: [sinema]
+rating : 4
 ---
-[rating:4/5]
 <img class="alignleft size-medium wp-image-2340" title="scott-pilgrim-vs-the-world-1024" src="http://onurbaykal.com.tr/wp-content/uploads/2012/01/scott-pilgrim-vs-the-world-1024-300x168.jpg" alt="" width="300" height="168" />
 Yine daha önceden izleyip buraya yazmadığım bir filmle daha karşınızdayım. Son zamanlarda nereden estiyse Scott Pilgrim çizgi romanlarını okumaya başladım. Hayatımda okuduğum en iyi çizgi roman serisi olabilir. Oradan aldığım gazla filmi tekrar izledim ve az önce fark ettiğim gibi burada bu filmin yorumu yok.
 
