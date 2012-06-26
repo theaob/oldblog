@@ -2,5 +2,5 @@ auto: true
 markdown: rdiscount
 permalink: /:year/:month/:title
 rdiscount extensions: [smart]
-paginate: 5
+paginate: 10
 title: Onur Baykal Şahsi Blog
