@@ -8,6 +8,12 @@ layout: layout
 	<span class="date">
 	{{ if (post.date | date: "%e %B %Y") == 'January' }}
 		Ocak
+	{{ elsif (post.date | date: "%e %B %Y") == 'February' }}
+		Şubat
+	{{ elsif (post.date | date: "%e %B %Y") == 'March' }}
+		Mart
+	{{ elsif (post.date | date: "%e %B %Y") == 'April' }}
+		Nisan
 	{{ endif }}
 	</span>
     {{ content }}
