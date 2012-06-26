@@ -12,7 +12,9 @@ title: Onur Baykal Şahsi Blog
 {% endfor %}
 
 <hr/>
+
 <div class="pagination">
+	<h3>
 	{% if paginator.previous_page == 1 %}
 		<a href="/" class="previous">Önceki</a>
 	{% elsif paginator.previous_page %}
@@ -26,4 +28,5 @@ title: Onur Baykal Şahsi Blog
 	{% else %}
 		<span class="next ">Sonraki</span>
 	{% endif %}
+	</h3>
 </div>
