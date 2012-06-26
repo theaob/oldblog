@@ -2,17 +2,6 @@
 layout: layout
 title: Onur Baykal Blog
 ---
-{% for post in paginator.posts %}
-<article>
-	<header>
-		<h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-		<span class="date">{{ post.date | date: "%e %B %Y" }}</span>
-	</header>
-</article>
-{% endfor %}
-
-<hr/>
-
 <div class="tiles" style="width:800;">
 	<div class="tilerow">
 		{% for post in paginator.posts limit:1 %}
