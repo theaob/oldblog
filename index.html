@@ -2,27 +2,26 @@
 layout: layout
 title: Onur Baykal Şahsi Blog
 ---
+{% for post in paginator.posts %}
+<article>
+	<header>
+		<h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+		<span class="date">{{ post.date | date: "%e %B %Y" }}</span>
+	</header>
+</article>
+{% endfor %}
 
-<div class="metro-pivot">
-	{% if paginator.previous_page %}
-		<div class="pivot-item">
-			<h3><a href="/page{{paginator.previous_page}}" class="previous">Önceki Sayfa</a></h3>
-		</div>	
-	{% endif %}
-	<div class="pivot-item">
-		<h3>Sayfa 1</h3>
-		{% for post in paginator.posts %}
-		<article>
-			<header>
-				<h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-				<span class="date">{{ post.date | date: "%e %B %Y" }}</span>
-			</header>
-		</article>
-		{% endfor %}
-	</div>	
-	{% if paginator.next_page %}
-	<div class="pivot-item">
-		<h3><a href="/page{{paginator.next_page}}" class="next ">Sonraki</a></h3>
-	</div>	
-	{% endif %}
+<hr/>
+<div class="pagination">
+  {% if paginator.previous_page %}
+    <a href="/page{{paginator.previous_page}}" class="previous">Önceki</a>
+  {% else %}
+    <span class="previous">Önceki</span>
+  {% endif %}
+  <span class="page_number ">Sayfa: {{paginator.page}} / {{paginator.total_pages}}</span>
+  {% if paginator.next_page %}
+    <a href="/page{{paginator.next_page}}" class="next ">Sonraki</a>
+  {% else %}
+    <span class="next ">Sonraki</span>
+  {% endif %}
 </div>
