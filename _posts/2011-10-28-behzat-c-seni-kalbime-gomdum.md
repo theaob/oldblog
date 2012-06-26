@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: Behzat &Ccedil;.:Seni Kalbime G&#246;md&uuml;m
 date: 2011-10-28 23:44
