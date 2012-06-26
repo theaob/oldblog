@@ -1,0 +1,8 @@
+﻿---
+layout: post
+title: YouTube &#304;nteraktif Dark Night Oyunu
+date: 2009-05-25 20:04
+comments: true
+categories: []
+---
+<p><img style="border-right-width: 0px; margin: 0px 5px 5px 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px" title="Capture" border="0" alt="Capture" align="left" src="http://onurbaykal.com.tr/wp-content/uploads/2009/05/capture5.jpg" width="201" height="113" /> Daha önce <a href="http://www.youtube.com/watch?v=LPQ1XrllZmA">Street Fighter için YouTube oyunu çıkmıştı</a>. YouTube tarihinde çok yaratıcı bir gelişmeydi ve bir ilkti. Aslında çok basit bir mantıkla çalışmasına rağmen yine de takdire değen bir çalışmaydı. Yine aynı kişiden bu sefer Batman Dark Knight filminden Joker ve Batman’i alan bir oyun daha geldi. Bu sefer dövüş yerine break dans yapılıyor. Yine oynanış basit yine düşünce ve uygulama güzel. Ayrıca Street Fighter’da olduğu gibi çok bölünme de yok. Başlangıç videoyu yazının devamında.</p> <!--more-->Videoya isterseniz <a href="http://www.youtube.com/watch?v=GR3ywoc2Cp4&amp;feature=player_embedded">buradan</a> veya aşağıdan ulaşabilirsiniz:   <p></p> <center><object width="480" height="295"><param name="movie" value="http://www.youtube.com/v/GR3ywoc2Cp4&amp;hl=en&amp;fs=1&amp;rel=0&amp;color1=0x3a3a3a&amp;color2=0x999999"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/GR3ywoc2Cp4&amp;hl=en&amp;fs=1&amp;rel=0&amp;color1=0x3a3a3a&amp;color2=0x999999" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="295"></embed></object></center>

@@ -1,0 +1,8 @@
+﻿---
+layout: post
+title: HP 70,000 Pili Geri &#199;a&#287;&#305;r&#305;yor
+date: 2009-05-15 14:55
+comments: true
+categories: []
+---
+<p><img style="border-bottom: 0px; border-left: 0px; display: inline; margin-left: 0px; border-top: 0px; margin-right: 0px; border-right: 0px" title="hp-dv2000-laptop-battery" border="0" alt="hp-dv2000-laptop-battery" align="left" src="http://onurbaykal.com.tr/wp-content/uploads/2009/05/hpdv2000laptopbattery.jpg" width="160" height="116" /> Amerikan Tüketici Güvenlik Komisyonu, HP ile birlikte 70,000 notebook pilini değiştirme kararı aldı. Çin’de üretilen bu piller aşırı ısınarak yanma ve patlama riski taşıyor. Bazı ürünlerden gelen ihbarlar sonucu yapılan incelemelerde HP ve Compaq’ın bazı modellerine takılı pillerin değiştirilmesi söz konusu. Online olarak ve bazı dükkanlarda satılan pil paketlerinde ve bilgisayarlarla birlikte gelen pillerde bu sorunlar görülmüş. </p> <!--more-->  <p><img style="border-bottom: 0px; border-left: 0px; display: block; float: none; margin-left: auto; border-top: 0px; margin-right: auto; border-right: 0px" title="hp-battery-recall-specs" border="0" alt="hp-battery-recall-specs" src="http://onurbaykal.com.tr/wp-content/uploads/2009/05/hpbatteryrecallspecs.png" width="480" height="190" />Yukarıdaki modellerde bulunan aşağıdaki kodlu piller:</p>  <p>62940^^AXV^^^^ 65033^^B7U^^^^   <br />65033^^B7V^^^^    <br />65033^^BGU^^^^ 65035^^B7U^^^^    <br />65035^^B7V^^^^    <br />65035^^BGU^^^^    <br />65035^^BGV^^^^ 67059^^V8U^^^^    <br />67059^^V8V^^^^</p>  <p></p>  <p>Aşırı ısınma ve yanma tehlikesi bulunduruyor. <a href="http://www.hp.com/support/BatteryReplacement">http://www.hp.com/support/BatteryReplacement</a> adresinden karşılaştırılıp değiştirme işlemine başvurulabiliyor.</p>

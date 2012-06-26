@@ -1,0 +1,8 @@
+﻿---
+layout: post
+title: Windows 7&#8217;nin &#199;&#305;k&#305;&#351; Tarihi Belli Oldu
+date: 2009-06-03 11:35
+comments: true
+categories: []
+---
+<p><img style="border-bottom: 0px; border-left: 0px; margin: 0px; display: inline; border-top: 0px; border-right: 0px" title="windows-7-300x300" border="0" alt="windows-7-300x300" align="left" src="http://onurbaykal.com.tr/wp-content/uploads/2009/06/windows7300x300.jpg" width="144" height="144" /> Neredeyse sene başından beri Windows 7 kullanıyorum. Açıkçası çok büyük problemler de yaşamadım. Çekinmeden de Windows 7’ye geçmeyi düşünüyorum. Sene başında Windows 7’nin 2010 gibi çıkacağı söyleniyordu. Beta ve RC 1’in başarısından gaz alarak Microsoft çıkış tarihini öne çekti. Zaten Haziran’dan sonra Windows Vista ile alınacak olan bilgisayarların Windows 7’ye ücretsiz olarak geçebilecek olması çıkış tarihinin Haziran’a yakın olduğunun göstergesiydi. Zaten son dönemlerde de 2009 bitmeden Windows 7’yi göreceğimiz şirket çalışanları tarafından kulağımıza çıtlatılmıştı. Yeni gelen haberler Windows 7’nin 22 Ekim’de piyasa sürüleceğini söylüyor. Tabii büyük bir olasılıkla bu tarihten önce bilgisayar üreticilerine Windows 7 ulaştırılmış olacak. Yani 22 Ekim’de hem yeni alacağını bilgisayarınızda Windows 7 görebileceksiniz hem de isterseniz kutu şeklinde Windows 7 edinebileceksiniz. Tabii bu arada halen RC 1’i kullanmaya devam edebiliriz. 2010’da o da bitecek. Beta ise bu sene Temmuz ayında işlevini yitirmeye başlayacak. Ben de tatil sezonunda biterse diye yanıma sistem disklerimi aldım. Bu yazıyı yazdığım bilgisayarda 7057 kurulu o yüzden bitiş tarihini tam bilemiyorum. Belki RC 1’e geçerim. Fakat bu kurulumu fazla özelleştirdim. Sıfırdan sistem kurulumu yapamam. Yükseltme yapmayı denerim diye düşünüyorum.</p>

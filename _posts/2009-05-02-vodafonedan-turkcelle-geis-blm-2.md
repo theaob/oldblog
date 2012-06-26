@@ -1,0 +1,8 @@
+﻿---
+layout: post
+title: Vodafone&#8217;dan Turkcell&#8217;e Ge&#231;i&#351; B&#246;l&#252;m 2
+date: 2009-05-02 19:42
+comments: true
+categories: []
+---
+<h4><img style="border-right-width: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; margin-left: 0px; border-left-width: 0px; margin-right: 0px" title="800px-Turkcell_logo.svg" border="0" alt="800px-Turkcell_logo.svg" align="left" src="http://onurbaykal.com.tr/wp-content/uploads/2009/05/800pxturkcell-logosvg1.jpg" width="240" height="86" /> </h4>  <h4>Bölüm 2 : Eğitimsiz Çalışan</h4>  <p><a href="http://onurbaykal.com.tr/hayatsal/yazi-dizisi-vodafonedan-turkcelle-geis" target="_blank">Daha önceki bölümde</a> işlemlere başladığımı bana söylenen 3-4 günün 1 haftaya ulaştığını anlatmıştım. Bugün şubeye tekrar sordum. Geçen gittiğimde işlemleri halleden çalışan yardımcı oldu yine. Bunu anlatmadım ama geçen sefer çalışan işlemleri yaparken arkadaşlarından yardım almıştı anlaşılan daha önce yapmamıştı veya işe yeni alınmıştı. Bir gidip sorayım ne oldu acaba diye uğradım. İşlemleri beceremediklerinden şüpheleniyordum. Tahmin ettiğim gibi olmuş. Çalışan geçen sefer becerememiş. </p> <!--more-->  <p>Burada şubeye mi Turkcell’e mi çatmak gerek bilmiyorum. Sonuçta çalışan almak için şubelere görev veriyordur ama çalışanların eğitimini de sağlaması gerekmez mi? Artık neredeyse iki haftayı bulan bir ileşim kopukluğuna sürüklemeye ne hakları var? Böyle durumlarda keşke avukat olsaydım diyorum. Hemen uğraşmadan hakkımı arardım.</p>  <p>İşlemleri tekrarladıktan sonra yine 3-4 gün dediler. Şehir değiştirmeden bitmiş olur umarım. Yeni sim kart da verdiler. Eskisi de duruyor. Hoş yine de tarife değiştirmek gerekecek. Boşu boşuna yine bekliyorum.</p>

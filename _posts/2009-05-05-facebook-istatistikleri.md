@@ -1,0 +1,8 @@
+﻿---
+layout: post
+title: Facebook &#304;statistikleri
+date: 2009-05-05 02:05
+comments: true
+categories: []
+---
+<p><a href="http://onurbaykal.com.tr/wp-content/uploads/2009/05/untitled2.jpg"><img style="border-bottom: 0px; border-left: 0px; display: inline; margin-left: 0px; border-top: 0px; margin-right: 0px; border-right: 0px" title="facebook-world-map" border="0" alt="facebook-world-map" align="left" src="http://onurbaykal.com.tr/wp-content/uploads/2009/05/untitled2-thumb.jpg" width="240" height="153" /></a> Dünyada neredeyse 192 milyon kişi Facebook kullanıyor. Bu kadar kullanıcıya ulaşmak elbette pek çok şirketi cezbediyor. <a href="http://www.checkfacebook.com/" target="_blank">CheckFacebook</a> isimli sitede Facebook istatistikleri veriliyor. Haftalık olarak en çok büyüyen ülkelerin gösterildiği sitede birçok istatistiki bilgi de bulunuyor. En çok üyesi olan ülkeler listesinde sırasıyla:</p>  <ol>   <li>Amerika Birleşik Devletleri</li>    <li>Birleşik Krallık (İngiltere)</li>    <li>Kanada</li>    <li>Türkiye</li> </ol>  <p>10 milyona yaklaşan kullanıcımızla aslında oldukça etkiliyiz diyebiliriz.</p> <!--more--> <img style="border-bottom: 0px; border-left: 0px; display: inline; margin-left: 0px; border-top: 0px; margin-right: 0px; border-right: 0px" title="Untitled" border="0" alt="Untitled" align="left" src="http://onurbaykal.com.tr/wp-content/uploads/2009/05/untitled.jpg" width="187" height="240" /> Sitede ayrıca üstüne tıkladığınız ülkenin kadın erkek oranı, dünyadaki kullanıcı oranını görebiliyorsunuz. Ayrıca ülkelerin yaşlara göre oranları da var. Facebook üzerinden belirli kitlelere hitab etmek isteyenler için oldukça faydalı olabilecek istatistikler sunulmakta. Reklamcı olmasanızda ilginizi çekecek veriler olduğunu düşünüyorum.

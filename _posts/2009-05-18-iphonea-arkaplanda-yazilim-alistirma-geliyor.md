@@ -1,0 +1,8 @@
+﻿---
+layout: post
+title: iPhone&#8217;a Arkaplanda Yaz&#305;l&#305;m &#199;al&#305;&#351;t&#305;rma Geliyor
+date: 2009-05-18 01:03
+comments: true
+categories: []
+---
+<p><img style="border-bottom: 0px; border-left: 0px; display: inline; margin-left: 0px; border-top: 0px; margin-right: 0px; border-right: 0px" title="iphone-background" border="0" alt="iphone-background" align="left" src="http://onurbaykal.com.tr/wp-content/uploads/2009/05/iphonebackground.png" width="320" height="480" /> iPhone’un yazılımcıların eklemeyerek güvenliğini sağladığı kullanıcıların ise yokluğundan şikayet ettiği arkaplanda yazılım çalıştırma özelliği eklenebilir. Evet başlıkta öyle kesin dedim ama çok uzun olmuştu. Aslında birçok yerde bu haber olarak verildi. WWDC 2009’da kesinliğe kavuşacağından emin olabilirsiniz. </p>  <p>Peki Apple niye daha önce bu özelliği iPhone’a koymadı? Bu özellik siz ana menüdeyken başka programların gizli olarak çalışmasını sağlıyor. Bu tarz programlarla hem pil ömrü kısalıyor hem de güvenlik açısından büyük sorunlar ortaya çıkıyor. Fakat bu özellik olmayınca da mesaj yazarken aynı anda internetten bir bilgiye ulaşamıyorsunuz. Tabii bence Apple’ın bu özelliği getirme amacı Twitter çılgınlığı. Aslında birçok Twitter programı mevcut ancak üst menüye yerleşmiş bir Twitter programı pek çok açıdan kolaylık sağlayacaktır. Yine aynı şey mail istemcisi veya IM’ler için de geçerli. Bu özellik belki de 32 GB’lık iPhone’lar için gelecek olabilir. Boyutunun artmasının yanında donanımsal özelliklerinde de geliştirmeler mevcut. iPhone kullanıcılarının hayatlarını değiştirmeyecek ancak pillerin daha çabuk biteceğine emin olabiliriz.</p>

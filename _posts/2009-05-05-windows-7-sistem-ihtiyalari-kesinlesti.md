@@ -1,0 +1,8 @@
+﻿---
+layout: post
+title: Windows 7 Sistem &#304;htiya&#231;lar&#305; Kesinle&#351;ti
+date: 2009-05-05 01:30
+comments: true
+categories: []
+---
+<p><img style="border-right-width: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; margin-left: 0px; border-left-width: 0px; margin-right: 0px" title="vista711" border="0" alt="vista711" align="left" src="http://onurbaykal.com.tr/wp-content/uploads/2009/05/vista7113.jpg" width="127" height="127" /> Aslında betadan beri sızan sürümlerle Windows 7’nin gelişimini yakından izledik. Bu arada yapılan denemelerle Windows 7’nin sistem gereksinimleri biraz belirli olmuştu. Microsoft kendi Windows 7’nin sistem ihtiyaçlarını doğruladı. Aslında verilen sistem özellikleri Vista’dan yüksek. Açıkçası ben bunu pek beklemiyordum ama Vista Basic’in sistem ihtiyaçları ile karşılaştırıldığını tahmin ediyorum. Windows 7’de Basic gibi birşey olmayacağından aslında Vista’dan daha iyi sistem özellikleri var diyebiliriz.</p> <!--more-->  <p>Windows 7’nin sistem gereksinimleri şöyle:</p>  <ul>   <li>1 GHz işlemci (32 bit bit veya 64 bit) </li>    <li>1 GB Ram(32 bit), 2 GB Ram (64 bit) </li>    <li>16 GB Hard disk (32 bit), 20 GB (64 bit) </li>    <li>128 MB hafızalı DirectX 9 destekli ekran kartı</li> </ul> Ayrıca Windows XP modunu çalıştıracaksanız 2 GB Ram ve sanal bilgisayar destekli işlemci gerekiyor. Windows Vista’nın sistem gereksinimleri ise şöyleydi:   <ul>   <li>1 GHz işlemci (32 bit veya 64 bit)</li>    <li>512 MB Ram(Home basic için), 1 GB (diğer tüm sürümler için)</li>    <li>15 GB alan</li>    <li>32 MB hafızalı DirectX 9 destekli ekran kartı(Home Basic için), 128 MB hafızalı ekran kartı (diğer tüm sürümler için)</li> </ul>

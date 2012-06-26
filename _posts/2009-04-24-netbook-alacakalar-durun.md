@@ -1,0 +1,8 @@
+﻿---
+layout: post
+title: Netbook Alacakalar DURUN!
+date: 2009-04-24 17:57
+comments: true
+categories: []
+---
+<p><img style="border-bottom: 0px; border-left: 0px; display: inline; margin-left: 0px; border-top: 0px; margin-right: 0px; border-right: 0px" title="Atom_Wafer" border="0" alt="Atom_Wafer" align="left" src="http://onurbaykal.com.tr/wp-content/uploads/2009/04/atom-wafer.jpg" width="230" height="130" /> Eğer pil ömrü çok önemli değilse devam edin eğer önemliyse okuyun. Şu an kullanılan netbooklarda üç işlemci var(AMD elini geç tuttu) Via Nano, Intel Atom N270 ve N280. Şu an birçok üründe Intel’in N270 işlemcisi kullanılıyor. Bu işlemci 1.6 GHz hızında ve 2.5 watt elektrik harcıyor. Via’nin işlemcileri 1 GHz olanı 1 watt harcarken diğerleri daha çok enerji harcıyor. Ayrıca demin bahsettiğim işlemcilerde HD Video oynatma özelliği yok. Yani kaliteli 720p ve 1080p videoları izleyemiyorsunuz.</p>  <p>Fakat netbooklarda yeni yeni görmeye başladığımız Intel Atom N280 ile 1667 MHz’ı 2 watt ile çalıştırıp HD videolar izleyebiliyorsunuz. Şimdilik bu işlemcili netbooklar biraz pahalı olsa da zamanla ucuzlayacaktır. N280 işlemcisiyle hem daha uzun kullanım süresi hem de daha yüksek performans elde edebilirsiniz. Bu yüzden biraz bekleyin daha iyisini alın. Ama benim gibi netbookunuzda multimedya işlemleri görmeyecekseniz çok fazla para harcamanıza gerek yok.</p>  <p></p>  <p>Eğer benim işim multimedya sadece taşıması rahat diye netbook kullanıyorum diyorsanız size de yönelik işlemciler var. Via Nano’nun 5 wattlık 1.8 GHz işlemcileri olduğu gibi 3 watt ile çalışan Intel Atom Z550 işlemcileri var. Hyperthreading desteği de sunuyor. </p>  <p>Bilgisayar seçerken ihtiyaçlarınıza göre uzun bir listeden eleme yoluyla ilerlemeniz en iyisi olacaktır.</p>

@@ -1,0 +1,8 @@
+﻿---
+layout: post
+title: Daha H&#305;zl&#305; Flash &#304;&#231;in Adobe ve Broadcom Elele
+date: 2009-06-03 12:31
+comments: true
+categories: []
+---
+<p><img style="border-bottom: 0px; border-left: 0px; margin: 0px 5px 0px 0px; display: inline; border-top: 0px; border-right: 0px" title="flashplayer_100x100g7z9a" border="0" alt="flashplayer_100x100g7z9a" align="left" src="http://onurbaykal.com.tr/wp-content/uploads/2009/06/flashplayer-100x100g7z9a.jpg" width="113" height="113" /> Netbooklardaki flash animasyonlarında belirli bir yavaşlık yaşanıyor. İşlemcinin yanı sıra ekran kartının da ek hızlandırma sağlaması için çalışmalar başladı. Acer Aspire One ve HP Mini 110XP modellerinde bulunan Broadcom Crystal HD video hızlandırıcısı için yapılacak olan özel optimizasyonlarla Flash’ın daha hızlı çalışması sağlanacak. Tabii bu gelişme bir&#160; kısım netbooklar için geçerli. N270 Atom işlemcisini kullanan netbooklarda HD video için ekstra çip olmadan bir hızlandırma yapılması mümkün değil. N280 ise HD videolarda daha başarılı. </p>  <p>Bunun yanı sıra Nvidia ve Adobe yine Flash optimizasyonu için birlikte çalışacaklar. Nvidia kullanan sistemlerin yanında, Tegra kullanan netbook ve MID’ler için de optimizasyonlar söz konusu olacak. Aslında buradan Flash’ın pek çok sistemde düşük performanslı çalıştığını çıkarabiliriz. Yani ben öyle anladım. Eğer Adobe daha geniş çalışarak sistemler için özel optimizasyonlar yaparsa daha hızlı Flash görebiliriz. Zaten el cihazları için bir optimizasyon gerekiyor. Pek çok cep telefonu veya internet cihazı halen Flash dosyalarında büyük problemler yaşıyor. Adobe’un AIR’de yaptığı gibi Flash’ı da ellerinden geldiği kadar multi platform yapması gerekiyor. Yoksa Microsoft Silverlight ile arkadan gelip piyasayı süpürebilir.</p>

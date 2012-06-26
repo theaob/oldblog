@@ -1,0 +1,8 @@
+---
+layout: post
+title: Facebook Cumhuriyeti
+date: 2009-02-28 10:50
+comments: true
+categories: []
+---
+<p><a href="http://ttfaf.files.wordpress.com/2009/02/facebook.jpg"><img title="facebook" style="border-right:0;border-top:0;display:inline;margin-left:0;border-left:0;margin-right:0;border-bottom:0;" height="160" alt="facebook" src="http://ttfaf.files.wordpress.com/2009/02/facebook-thumb.jpg" width="240" align="left" border="0" /></a>Evet başlık Yahoyt ile aynı hatta haberin içeri de aynı ama anlatım benden. Fark burada. Bir süredir Facebook’un kullanım şartlarında bir hareketlilik söz konusuydu. Hesaplarınızı açtığınızda üstte yer alan duyurulardan haberdar olmuşsunuzdur. Kullanıcıları hissedarlara esir eden kullanım şartlarından sonra başlayan isyan ile bu koşullar tekrar gözden geçirildi. Bu hafta yapılan duyuruda ise Facebook’un kullanım koşullarını kullanıcıların belirleyeceği belirtildi. Yani artık üyeler kendi kendilerini yönetecekler. Bu sistem Facebook forumlarından gerçekleşecek. Kullanıcılar temsilciler seçecek ve bu temsilciler arasında yapılacak oylamalara göre kararlar alınacak. Eğer mantıklı ve akla yakın bir fikir öne sürerseniz sizi de bu konseye alabilecekleri de belirtiliyor. Vive la révolution diyoruz o zaman!</p>

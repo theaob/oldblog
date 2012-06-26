@@ -1,0 +1,8 @@
+﻿---
+layout: post
+title: Eski G&#252;nlere D&#246;n&#252;&#351;: Doom, Heretic ve Hexen
+date: 2009-05-23 10:55
+comments: true
+categories: []
+---
+<p><img style="border-bottom: 0px; border-left: 0px; margin: 0px 5px 5px 0px; display: inline; border-top: 0px; border-right: 0px" title="Capture" border="0" alt="Capture" align="left" src="http://onurbaykal.com.tr/wp-content/uploads/2009/05/capture4.jpg" width="453" height="227" /> Dos zamanlarında Doom oynamak, bugün Playstation da oyun oynamak gibiydi. PC o yıllarda daha oyun aleti değildi (hoş hala tam değil ama isterseniz o hale getirebiliyorsunuz). Ben de küçüktüm. Korkardım Doom oynarken. Başkalarını oynarken izlerdim. Kendi bilgisayarıma hiçbir zaman o eski Doom’u kurmamıştım (yenisini kurdum oynadım). Sonra teknoloji ilerledikçe pek çok yeni alet çıktı, bilgisayarlar hızlandı. Doom’u PSP’de, Symbian telefonumda ve hatta iPod’umda tekrar oynadım. Geçen yıllarda neyi kaçırdığımı anlamak için. Aslında her oyuncunun görmesi gereken bir oyun. Nereden nereye gelmişiz. Aynı şeyleri Heretic ve Hexen için de söylemek isterdim ama onları küçükken görmedim. O yüzden bana Doom’un hissettirdiklerini hissettirmiyorlar ama şimdi oynadığımda Hexen’i daha çok beğendim. Tabii bunlardan bahsetmemin nedeni Flash ile yapılmış <a href="http://www.newgrounds.com/portal/view/470460">Doom Triple Pack</a>. Bu üç oyunu da oynayabiliyorsunuz. Vaktinizi çalıyor. Başladınız mı bırakamıyorsunuz. Zaten kaydetme özellikleri de var. Böylece daha sonra da devam edebiliyorsunuz. Hatta siteye üye olup achievement tarzı madalyalar da kazanabiliyorsunuz. Geçmişin oyunlarının bugünün teknolojisine ayak uydurması güzel bir durum. </p>

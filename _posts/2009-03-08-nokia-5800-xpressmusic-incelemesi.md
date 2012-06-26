@@ -1,0 +1,20 @@
+﻿---
+layout: post
+title: Nokia 5800 XpressMusic &#304;ncelemesi
+date: 2009-03-08 12:11
+comments: true
+categories: []
+---
+<a href="http://ttfaf.files.wordpress.com/2009/03/nokia5800bat1.gif"><img style="display:inline;margin-left:0;margin-right:0;border-width:0;" title="nokia5800bat1" src="http://ttfaf.files.wordpress.com/2009/03/nokia5800bat1-thumb.gif" border="0" alt="nokia5800bat1" width="240" height="165" align="left" /></a>
+
+Yok yok aleti satın almadım. Ama TeknoSA’da her şeyini kurcaladım. Uzun süre telefonla oynayınca satıcı geldi ama ben oynamaya devam edince sıkılıp gitti. AnkaMALL’da iki tane TeknoSA var. Birinde sadece maket olarak 5800 vardı. Çalışan bir telefon kurcalamama açık değildi. Hatta netbookları da camekan içine koymuşlar yoksa bir netbook karşılaştırması da yapacaktım. Bir rahat inceleyemedim cihazları.
+
+<!--more-->Cihazla ilgili gözüme ilk çarpan şey boyutlarıydı. Ele almakta zorlanmıyorsunuz. iPhone bu konuda biraz zorluyor beni. Tamam o da kolay tutuluyor ama bu telefon tam ele oturuyor. Fakat bunu da ekrandan kırparak hallettiği için kullanım amacına göre dezavantaj olabilir. Şahsen ben telefonumu farklı işler için kullanmadığımdan dolayı benim için sorun değil. Ben de 5310 XpressMusic kullanıyorum. Boyut küçüklüğü benim için daha öncelikli.
+
+Daha sonra telefonu evirip çevirirken kamerasını gördüm. 3.2 MP bir kamera var. Ben telefonla fotoğraf çekmediğim için ilgilenmiyorum ama dahili flaş sanırım kullananlar için iyi bir özellik olacaktır. Telefon flaşlarının çok güçlü olmadığını da düşünürsek flaşla fotoğrafları berbat etme riski çok daha az. Fotoğraf çekmedim, aslında çekip kendi telefonuma atıp buraya birkaç fotoğraf koyabilirmişim. Bundan sonra böyle birşeyler yaparım. Ancak pişiyoruz olur böyle hatalar.
+
+Tabii bu telefonu incelememe neden olan şey ise dokunmatik olması. Evet daha çok elektrik harcayıp dokunmatik ekran kullanmaya razıyım. Benim hoşuma gidiyor. Fakat 5800'ın dokunmatik ekranını beğendiğimi söyleyemeyeceğim. Belki benim denediğim cihaz ortalıkta olduğu için biraz yalama olmuş olabilir ama dokunmatik ekran hassas değildi. Scroll yapmak zor oldu iPhone da olduğu gibi herhangi bir yerden tut bırak yapamıyorsunuz illa scroll bar üzerinden gerçekleştirmeniz gerekiyor. Multi touch yok. Çok zor bir teknoloji değil niye yaygınlaşmıyor anlamıyorum (belki bir patent olayı söz konusudur). Telefonun tuş takımı yok. Ekran klayvesini ben iPhone'dan daha başarılı buldum. iPhone'un (iPod Touch için de geçerli) ekran klayvesini ben zor kullanıyorum. Biraz büyük parmaklarım var. Ufak tuşları tutturmam zor oluyor. iPhone kalem gibi şeyleri de desteklemediğinden iyice zor geliyor bana. Fakat 5800'ın klayvesi yarım ekran olarak veya yatay tam ekran olarak kullanılabiliyor. Ayrıca el yazısı tanıma özelliği de var. Ben bunu parmağımla beceremedim. Dükkandan ayrılırken telefona bağlı pena gibi birşey olduğunu gördüm. O şekilde daha kolay yazı yazılabilir. Ben yazı yazma konusunda 5800'ı çok başarılı buldum.
+
+Dahili gelen uygulamalar dokunmatik ekrana uyarlanmış. Fakat Nokia Maps'i düzgün kullanamadım ben. Neden kaynaklanıyor bilemiyorum. Ama Symbian yazılım konusunda diğer platformların gerisinde kalıyor. AppStore bile Windows Mobile'dan daha fazla yazılım içermesi kimin ne kadar halka hitap ettiğini gösteriyor. Ama Nokia'nın yazılımını geliştirmesi gerektiği açık. Android de yolda iken dikkatli davranmaları lazım.
+
+Uzun lafın kısası bence 5800 bir müzik telefonundan çok Nokia'nın dokunmatik ekranlı telefon denemesi gibi duruyor. iPhone killer gibi bir durum yok. Ama yazılımsal geliştirmelerle daha iyi yerlere gelinebilir. Ayrıca Kuzey Amerika'da donanımsal bir sorun da oluşmuş. Bozuk hoperlörler varmış. Hiç iyi bir durum değil bu. Kim bilir başka nerelerde aynı durum vardır. Ben bu telefonu çok beğenmedim. Vodafone'un Android'ini beklemeye devam ediyorum.

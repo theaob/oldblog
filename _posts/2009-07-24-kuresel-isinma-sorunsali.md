@@ -1,0 +1,14 @@
+﻿---
+layout: post
+title: K&uuml;resel Is&#305;nma Sorunsal&#305;
+date: 2009-07-24 12:44
+comments: true
+categories: []
+---
+<img class="alignleft size-medium wp-image-1060" title="globalwarming" src="http://onurbaykal.com.tr/wp-content/uploads/2009/07/globalwarming-208x300.jpg" alt="globalwarming" width="146" height="210" />İşi biraz geyiğe vuracağım sanırım. Gerçekte küresel ısınmanın nedeni sera etkisi yapan atmosfer gazları deniliyor. Yani ben gerçek nedenin bu olduğuna inanıyorum. Bilimsel konuşamıyorum çünkü küresel ısınma meselesi bir <em>inanç</em> meselesi haline gelmiş. Bush ve yönetimi küresel ısınmanın insan kaynaklı olmadığına <em>inanıyorlardı</em>. Greenpeace gibi kuruluşların bazı üyeleri küresel ısınmadan kurtulmayı bir din gibi görerek <em>inanıyorlar</em>. Sonuçta küresel ısınma başta dediğim gibi bir <em>inanç meselesi</em> haline gelmiş. Dün yazı aklıma gelirken olayın bu açısını düşünmemiştim, fakat şimdi farkettim. Ben yine de dünkü düşüncelerimi de aktarayım.
+
+Daha önce kullanıldı sanırım. Küresel ısınmanın İngilizcesi "Global Warming". "Warming" kelimesi "warning" kelimesine oldukça benziyor. Bazı küresel ısınma kampanyalarında "Global Warning" şeklinde sloganlar kullanılırsa daha etkili olabilir. Tek akıllı adam ben olmadığım için benden önce birileri düşünmüştür herhalde. Bu da öyle aklıma geldi söyleyeyim dedim.
+
+<img class="alignright size-medium wp-image-1061" title="bigstockphoto_Global_Warming_217540 3" src="http://onurbaykal.com.tr/wp-content/uploads/2009/07/bigstockphoto_Global_Warming_217540-3-300x199.jpg" alt="bigstockphoto_Global_Warming_217540 3" width="300" height="199" />Şu an ki fizik bilgimle hatırladığım kadarıyla evrende enerji kalbolmuyor. Başka bir türe dönüşüyor. Ben böyle biliyorum. Okulda öğretilen fizikte genellikle sürtünme ihmal edildiği için yapılacak olan işler daha az enerji ile halledilebiliyor. Tabii sürtünme dolayısıyla daha fazla enerji harcıyoruz. Sürtünmeye harcadığımız enerji hatırladığım kadarıyla ses ve ısıya dönüşüyor. Yine benzer şekilde elektrik tellerinin bir direnci olduğu için bütün o kablolar aslında ufak birer resistans görevi görüyor ve ısı yayıyor. Küresel ısınmayı tetikleyen faktör direkt olarak Dünya kaynaklı ısı değil ama elbette bu ısının da faydası vardır.
+
+Bu enerjinin kaybolmaması, sürekli bir dönüşüm içinde olması bende bir düşünce yarattı. Ya bu enerjiyi bir yerde saklarsak ne olur? Örneğin piller enerjiyi depoluyorlar. Elbette enerji sonradan devinime kazandırılıyor ancak bir süre bekletiliyor. Buradan yola çıkarak şişman insanların da pil gibi davrandıklarını düşünebiliriz. Sonuçta yağ olarak büyük miktarda enerji depoluyorlar. Ayrıca kullanmıyorlar da. Yıllar boyunca taşıyıp hem daha fazla enerji tüketiyorlar, hem de enerjiyi sakınıyorlar. Sigara yasağından sonra ilk hedefin obezler olacağını söylerlerdi de inanmazdım. İşte, hedef gösterdim. İyi mi ettim bilmiyorum.

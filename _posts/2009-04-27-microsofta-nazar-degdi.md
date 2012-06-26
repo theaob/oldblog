@@ -1,0 +1,8 @@
+﻿---
+layout: post
+title: Microsoft&#8217;a Nazar De&#287;di
+date: 2009-04-27 13:59
+comments: true
+categories: []
+---
+<p><img style="border-bottom: 0px; border-left: 0px; display: inline; margin-left: 0px; border-top: 0px; margin-right: 0px; border-right: 0px" title="MicrosoftLogo" border="0" alt="MicrosoftLogo" align="left" src="http://onurbaykal.com.tr/wp-content/uploads/2009/04/microsoftlogo.jpg" width="172" height="33" /> Senelerdir satışını ve karını arttıran şirket satışlarında ve karında azalma olduğunu açıkladı. Aslında bu 3 gün öncesinin haberi ama nedense ben bunu yazmak için biraz beklettim. Fakat şimdi detaylarıyla adam akıllı yazıyorum. 23 yıl boyunca karını ve satışını sürekli arttıran bir şirketin gelirlerinin düşmesi aslında ekonomik krizin de göstergesi.</p> <!--more-->  <p>Gelirdeki düşüş detaylarını vermeden önce düşüş nedenlerini inceleyelim. Aslında büyük neden ekonomik kriz etkisiyle bilgisayar satışlarının düşmesi ve kullanıcıların şirketlerin daha az kar ettiği modellere yönelmesi. Bunun olması oldukça doğal. Microsoft Windows Vista sattıkça daha çok para kazanıyor ancak şu sıralar oldukça ilgi gören netbookların çoğunda Windows XP ve Linux bulunuyor. Doğal olarak Microsoft bu satışlardan eskisi kadar kar edemiyor.</p>  <p>Şirketin bu dönemdeki satışları geçen seneye göre %6 azalmış durumda. 0.4 Milyar dolarlık bir azalma. Ayrıca şirketin gelirleri %32’lik bir azalmayla 2.98 Milyar dolara geriledi. Hisse başına&#160; 39 centten 33 cente gerileme var. </p>  <p>Oysa geçenlerde krize karşı ilk defa çalışan çıkartmışlardı. 1400 kişi işinden olmuştu. Demek ki gerçekten sistemin bazı kısımlarında büyük sorunlar var. Fakat yakın dönemde düzeleceğe benziyor.</p>
