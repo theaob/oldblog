@@ -7,7 +7,7 @@ layout: layout
 		<span class="date">{{ post.date | date: "%d %m %Y" }}</span>
 	</header>
 	{{ if post.rating }}
-		RATING!
+		<p>5 üzerinden {{ post.rating }}</p>
 	{{ endif }}
 	{{ content }}
 </article>

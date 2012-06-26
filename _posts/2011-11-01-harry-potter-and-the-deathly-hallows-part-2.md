@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Harry Potter and the Deathly Hallows: Part 2
+title: Harry Potter and the Deathly Hallows Part 2
 date: 2011-11-01 20:57
 comments: true
 categories: [sinema]
