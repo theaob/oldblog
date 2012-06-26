@@ -2,12 +2,12 @@
 layout: layout
 title: Onur Baykal Blog
 ---
-<div class="tiles" style="width:80%;">
+<div class="tiles" style="width:80%; margin-left:10%;">
 	<div class="tilerow">
 		{% for post in paginator.posts %}
-			{% if post.category == 'sinema' %}
+			{% if post.category == sinema %}
 				<a href="{{ post.url }}"><div class="tile one bluebg"><h2>{{ post.title }}</h2></div></a>
-			{% elsif post.category == 'kitap' %}
+			{% elsif post.category == kitap %}
 				<a href="{{ post.url }}"><div class="tile two-h limebg"><h2>{{ post.title }}</h2></div></a>
 			{% else %}
 				<a href="{{ post.url }}"><div class="tile one tealbg"><h2>{{ post.title }}</h2></div></a>
