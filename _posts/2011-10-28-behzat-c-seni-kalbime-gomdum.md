@@ -6,7 +6,8 @@ comments: true
 categories: []
 ---
 [rating:3/5]
-<img class="alignleft size-medium wp-image-2295" title="Behzat-Ç.-Seni-Kalbime-Gömdüm-2.fragman" src="http://onurbaykal.com.tr/wp-content/uploads/2011/10/Behzat-Ç.-Seni-Kalbime-Gömdüm-2.fragman-300x174.png" alt="" width="300" height="174" />Blog'a uzun süredir yazı yazmamamı Behzat Ç. ile bozmaktan daha iyi bir şey olamazdı sanırım. Bunun da bir kıpkıpçılar etkinliğiyle birleşmesi de köri sosu gibi bir şey oldu. Kıpkıpçıları, Radyo Odtü'de Modern Sabahlar dinleyici grubu olarak özetleyebilirim ama bu fazla bir özetleştirme oluyor, o yüzden de tüm kıpkıp camiasından özür diliyorum.
+<img class="alignleft size-medium wp-image-2295" title="Behzat-Ç.-Seni-Kalbime-Gömdüm-2.fragman" src="./uploads/2011/10/Behzat-Ç.-Seni-Kalbime-Gömdüm-2.fragman-300x174.png" alt="" width="300" height="174" />
+Blog'a uzun süredir yazı yazmamamı Behzat Ç. ile bozmaktan daha iyi bir şey olamazdı sanırım. Bunun da bir kıpkıpçılar etkinliğiyle birleşmesi de köri sosu gibi bir şey oldu. Kıpkıpçıları, Radyo Odtü'de Modern Sabahlar dinleyici grubu olarak özetleyebilirim ama bu fazla bir özetleştirme oluyor, o yüzden de tüm kıpkıp camiasından özür diliyorum.
 
 Filme dönecek olursam. Behzat Ç.'yi televizyonda severek izledim, kitaplarını da severek okudum. Sanırım dizinin sezon finali yapmasından sonra arada geçen süre beni diziden bir nebze uzaklaştırmış. Film başlangıcında diziyi özlediğimi fark etsem de filmden aldığım tatmin bir noktayı aşamadı.
 
