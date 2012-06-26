@@ -16,7 +16,13 @@ layout: layout
 		<p>
 		{{ for category in page.categories }}
 			{{category}}&nbsp;
-		{{ end for}}
+		{{ endfor }}
 		</p>
 	{{ endif }}
 </article>
+<br/>
+<hr/>
+<h3>Yorumlar</h3>
+{% unless page.comments == true %}
+	Comments will be here
+{% endunless %}
