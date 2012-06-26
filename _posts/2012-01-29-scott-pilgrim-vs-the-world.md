@@ -4,9 +4,9 @@ title: Scott Pilgrim vs. The World
 date: 2012-01-29 11:00
 comments: true
 categories: [sinema]
-rating : 4
+rating: 4
 ---
-<img class="left" src="http://onurbaykal.com.tr/wp-content/uploads/2012/01/scott-pilgrim-vs-the-world-1024-300x168.jpg" width="300" height="168" />
+<img class="left" src="http://onurbaykal.com/uploads/2012/01/scott-pilgrim.jpg"/>
 Yine daha önceden izleyip buraya yazmadığım bir filmle daha karşınızdayım. Son zamanlarda nereden estiyse Scott Pilgrim çizgi romanlarını okumaya başladım. Hayatımda okuduğum en iyi çizgi roman serisi olabilir. Oradan aldığım gazla filmi tekrar izledim ve az önce fark ettiğim gibi burada bu filmin yorumu yok.
 
 Filmi kısaca şöyle özetleyebilirim: Scott Pilgrim'in yeni sevgilisinin kalbini kazanmak için, onun 7 eski kötü erkek arkaşını pardon sevgililerini yenmesi gerekiyor. Evet böyle bir saçmalık var ortada ama çizgi romanda bu daha eğlenceliydi. Baştan söylemek lazım film ile çizgi roman arasında epey farklılıklar var. Bu yüzden filmi beğenenlerin çizgi romanları okumasını şiddetle tavsiye ederim.
