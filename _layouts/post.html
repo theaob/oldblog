@@ -5,6 +5,11 @@ layout: layout
 <div class="content">
   <div id="post">
     <h1>{{ post.title }}</h1>
+	<span class="date">
+	{{ if (post.date | date: "%e %B %Y") == 'January' }}
+		Ocak
+	{{ endif }}
+	</span>
     {{ content }}
   </div>
 </div>
