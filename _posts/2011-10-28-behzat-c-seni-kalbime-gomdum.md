@@ -3,7 +3,7 @@ layout: post
 title: Behzat Ç.:Seni Kalbime Gömdüm
 date: 2011-10-28 23:44
 comments: true
-categories: [sinema]
+categories: ['sinema']
 rating: 3
 ---
 <img class="left" src="/uploads/2011/10/behzat.png"/>

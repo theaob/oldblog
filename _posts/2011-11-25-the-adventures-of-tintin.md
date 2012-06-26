@@ -3,7 +3,7 @@ layout: post
 title: The Adventures of Tintin
 date: 2011-11-25 20:16
 comments: true
-categories: [sinema]
+categories: ['sinema']
 rating: 4
 ---
 <img class="left" src="http://onurbaykal.com/uploads/2011/11/tintin-movie.jpg" alt=""/>

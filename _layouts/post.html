@@ -6,8 +6,8 @@ layout: layout
 		<h2>{{ page.title }}</h2>
 		<span class="date">{{ post.date | date: "%d %m %Y" }}</span>
 	</header>
-	{{ if post.rating }}
-		<p>5 üzerinden {{ post.rating }}</p>
+	{{ if page.rating }}
+		<p>5 üzerinden {{ page.rating }}</p>
 	{{ endif }}
 	{{ content }}
 	<br/><br/>
@@ -15,7 +15,7 @@ layout: layout
 		<h4>Kategoriler:</h4>
 		<p>
 		{{ for category in page.categories }}
-			{{category}},
+			{{category}}&nbsp;
 		{{ end for}}
 		</p>
 	{{ endif }}

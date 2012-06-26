@@ -3,7 +3,7 @@ layout: post
 title: The Girl With The Dragon Tattoo (US)
 date: 2012-01-27 21:39
 comments: true
-categories: [sinema]
+categories: ['sinema']
 rating: 4.5
 ---
 <img class="left" src="http://onurbaykal.com/uploads/2012/01/Girl-With-the-Dragon-Tattoo.jpg"/>

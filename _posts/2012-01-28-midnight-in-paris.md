@@ -3,7 +3,7 @@ layout: post
 title: Midnight In Paris
 date: 2012-01-28 11:00
 comments: true
-categories: [sinema]
+categories: ['sinema']
 rating: 4
 ---
 <img class="left" src="http://onurbaykal.com/uploads/2012/01/midnight+in+paris.jpg"/>

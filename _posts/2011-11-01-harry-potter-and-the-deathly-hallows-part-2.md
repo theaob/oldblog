@@ -3,7 +3,7 @@ layout: post
 title: Harry Potter and the Deathly Hallows Part 2
 date: 2011-11-01 20:57
 comments: true
-categories: [sinema]
+categories: ['sinema']
 rating: 4
 ---
 <img class="left" src="http://onurbaykal.com/uploads/2011/11/Harry-Potter-And-The-Deathly-Hallows-2.jpg" alt=""/>

@@ -3,7 +3,7 @@ layout: post
 title: The King&#039;s Speech
 date: 2011-03-15 16:09
 comments: true
-categories: [sinema]
+categories: ['sinema']
 rating: 4
 ---
 <img src="http://onurbaykal.com/uploads/2011/03/kings-speech.jpg" alt="" class="left" />
