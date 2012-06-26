@@ -11,10 +11,11 @@ layout: layout
 	{{ endif }}
 	{{ content }}
 	<hr/>
-	<h4>Kategoriler</h4>
-	<ul>
-	{{ for category in post.categories }}
-		<li>{{category}}</li>
-	{{ end foreach}}
-	</ul>
+	{{ if post.categories }}
+		<p><h4>Kategoriler:</h4>
+		{{ for category in post.categories }}
+			{{category}},
+		{{ end for}}
+		</p>
+	{{ endif }}
 </article>
