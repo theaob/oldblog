@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: Paranoyak: Ruh Sa&#287;l&#305;&#287;&#305;ndan &#350;&uuml;phe Duyanlar&#305;n El Kitab&#305;
 date: 2010-12-20 13:54
