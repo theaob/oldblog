@@ -7,7 +7,14 @@ layout: layout
 		<span class="date">{{ post.date | date: "%d %m %Y" }}</span>
 	</header>
 	{{ if post.rating }}
-		<p>5 üzerinden {{ post.rating }}</p>
+		<p>5 Ã¼zerinden {{ post.rating }}</p>
 	{{ endif }}
 	{{ content }}
+	<hr/>
+	<h4>Kategoriler</h4>
+	<ul>
+	{{ for category in post.categories }}
+		<li>{{category}}</li>
+	{{ end foreach}}
+	</ul>
 </article>
