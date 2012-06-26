@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Paranoyak: Ruh Sa&#287;l&#305;&#287;&#305;ndan &#350;&uuml;phe Duyanlar&#305;n El Kitab&#305;"
+title: "Paranoyak: Ruh Sağlığından Şüphe Duyanların El Kitabı"
 date: 2010-12-20 13:54
 comments: true
 categories: ['kitap']
