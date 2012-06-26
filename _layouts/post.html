@@ -21,8 +21,9 @@ layout: layout
 	{{ endif }}
 </article>
 <br/>
+{% if page.comments == true %}
 <hr/>
 <h3>Yorumlar</h3>
-{% unless page.comments == true %}
+
 	Comments will be here
-{% endunless %}
+{% endif %}
