@@ -3,10 +3,10 @@ layout: post
 title: Harry Potter and the Deathly Hallows: Part 2
 date: 2011-11-01 20:57
 comments: true
-categories: []
+categories: [sinema]
+rating: 4
 ---
-[rating:4/5]
-<img class="alignleft size-medium wp-image-2305" title="Harry-Potter-And-The-Deathly-Hallows-2-Trailer-Part-Second-Daniel-Radcliffe-Rupert-Grint-Emma-Watson-Tom-Felton-Ralph-Fiennes-David-Yates" src="http://onurbaykal.com.tr/wp-content/uploads/2011/11/Harry-Potter-And-The-Deathly-Hallows-2-Trailer-Part-Second-Daniel-Radcliffe-Rupert-Grint-Emma-Watson-Tom-Felton-Ralph-Fiennes-David-Yates-300x199.jpg" alt="" width="300" height="199" />
+<img class="left" src="http://onurbaykal.com/uploads/2011/11/Harry-Potter-And-The-Deathly-Hallows-2.jpg" alt=""/>
 
 Bu film bu blogdaki ilk ve son Harry Potter filmi yazısı olma özelliğini taşıyor. Aslında bütün Harry Potter filmlerini izledim ama nasıl olmuşsa blogda hiç yazmamışım. Geçmiş geçmişte kalsın diyerek 7 kitaplık serinin 8. ve son filmiyle buradayım.
 

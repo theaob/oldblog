@@ -7,9 +7,7 @@ layout: layout
 		<span class="date">{{ post.date | date: "%d %m %Y" }}</span>
 	</header>
 	{{ if post.rating }}
-		{% for i in (1..post.rating) %}
-			YILDIZ!
-		{% endfor %}
+		RATING!
 	{{ endif }}
 	{{ content }}
 </article>
