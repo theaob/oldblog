@@ -11,11 +11,40 @@ title: Onur Baykal Blog
 </article>
 {% endfor %}
 
+<hr/>
+
+<div class="tiles" style="width:80%;">
+	<div class="tilerow">
+		{% for post in paginator.posts limit:1 %}
+			<a href="{{ post.url }}"><div class="tile two-h bluebg"><h2>{{ post.title }}</h2></div></a>
+		{% endfor %}
+		{% for post in paginator.posts limit:3 offset:1 %}
+			<a href="{{ post.url }}"><div class="tile one bluebg"><h2>{{ post.title }}</h2></div></a>
+		{% endfor %}
+	</div>
+	<div class="tilerow">
+		{% for post in paginator.posts limit:5 offset:4 %}
+			<a href="{{ post.url }}"><div class="tile one bluebg"><h2>{{ post.title }}</h2></div></a>
+		{% endfor %}
+	</div>
+	<div class="tilerow">
+		{% for post in paginator.posts limit:5 offset:9 %}
+			<a href="{{ post.url }}"><div class="tile one bluebg"><h2>{{ post.title }}</h2></div></a>
+		{% endfor %}
+	</div>
+	<div class="tilerow">
+		{% for post in paginator.posts limit:5 offset:14 %}
+			<a href="{{ post.url }}"><div class="tile one bluebg"><h2>{{ post.title }}</h2></div></a>
+		{% endfor %}
+	</div>
+</div>
+
+
 <br/><br/>
 <hr/>
 <footer>
 	<center>
-		<h3>
+		<h3 style="color:black;">
 		{% if paginator.previous_page == 1 %}
 			<a href="/" class="previous">Önceki</a>
 		{% elsif paginator.previous_page %}
