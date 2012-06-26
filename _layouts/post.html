@@ -7,9 +7,9 @@ layout: layout
 		<span class="date">{{ post.date | date: "%d %m %Y" }}</span>
 	</header>
 	{{ if post.rating }}
-		<div class="progress progress-striped active">
-			<div class="bar" style="width: {{ post.rating * 20 }}%;"></div>
-		</div>
+		{% for i in (1..post.rating) %}
+		  {{ i }}
+		{% endfor %}
 	{{ endif }}
 	{{ content }}
 </article>
