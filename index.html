@@ -13,19 +13,21 @@ title: Onur Baykal Blog
 
 <hr/>
 <footer>
-	<h3>
-	{% if paginator.previous_page == 1 %}
-		<a href="/" class="previous">Önceki</a>
-	{% elsif paginator.previous_page %}
-		<a href="/page{{paginator.previous_page}}" class="previous">Önceki</a>
-	{% else %}
-		<span class="previous">Önceki</span>
-	{% endif %}
-	<span class="page_number ">Sayfa: {{paginator.page}} / {{paginator.total_pages}}</span>
-	{% if paginator.next_page %}
-		<a href="/page{{paginator.next_page}}" class="next ">Sonraki</a>
-	{% else %}
-		<span class="next ">Sonraki</span>
-	{% endif %}
-	</h3>
+	<center>
+		<h3>
+		{% if paginator.previous_page == 1 %}
+			<a href="/" class="previous">Önceki</a>
+		{% elsif paginator.previous_page %}
+			<a href="/page{{paginator.previous_page}}" class="previous">Önceki</a>
+		{% else %}
+			<span class="previous">Önceki</span>
+		{% endif %}
+		<span class="page_number ">Sayfa: {{paginator.page}} / {{paginator.total_pages}}</span>
+		{% if paginator.next_page %}
+			<a href="/page{{paginator.next_page}}" class="next ">Sonraki</a>
+		{% else %}
+			<span class="next ">Sonraki</span>
+		{% endif %}
+		</h3>
+	</center>
 </footer>
