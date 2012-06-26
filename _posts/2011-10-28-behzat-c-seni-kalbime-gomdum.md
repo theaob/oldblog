@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Behzat &Ccedil;.:Seni Kalbime G&#246;md&uuml;m
+title: Behzat Ç.:Seni Kalbime Gömdüm
 date: 2011-10-28 23:44
 comments: true
 categories: []
