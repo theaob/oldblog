@@ -11,16 +11,11 @@ layout: layout
 	{{ endif }}
 	{{ content }}
 	<br/><br/>
-	Page categories:
-	{{ page.categories }}
-	Post categories:
-	{{ post.categories }}
-
 	{{ if page.categories }}
 		<h4>Kategoriler:</h4>
 		<p>
 		{{ for category in page.categories }}
-			{{category}}&nbsp;
+			{{ category }}&nbsp;
 		{{ endfor }}
 		</p>
 	{{ endif }}
