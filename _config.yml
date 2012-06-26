@@ -3,4 +3,4 @@ markdown: rdiscount
 permalink: /:year/:month/:title
 rdiscount extensions: [smart]
 paginate: 10
-title: Onur Baykal Şahsi Blog
+title: Onur Baykal Blog
