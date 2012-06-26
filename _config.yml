@@ -1,6 +1,9 @@
 auto: true
 markdown: rdiscount
-permalink: http://onurbaykal.com/:year/:month/:title
+permalink: /:year/:month/:title
 rdiscount extensions: [smart]
 paginate: 19
 title: Onur Baykal Blog
+url: http://onurbaykal.com/
+name: Onur Baykal Blog
+description: Yet another personal blog
