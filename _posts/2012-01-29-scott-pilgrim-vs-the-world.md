@@ -3,7 +3,7 @@ layout: post
 title: Scott Pilgrim vs. The World
 date: 2012-01-29 11:00
 comments: true
-categories: [ 'sinema' ]
+categories: [ 'sinema', 'yorum' ]
 rating: 4
 ---
 <img class="left" src="http://onurbaykal.com/uploads/2012/01/scott-pilgrim.jpg"/>
