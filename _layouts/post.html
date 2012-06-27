@@ -6,12 +6,12 @@ layout: layout
 		<h2>{{ page.title }}</h2>
 		<span class="date">{{ post.date | date: "%d %m %Y" }}</span>
 	</header>
-	{{ if page.rating }}
+	{{ unless page.rating == empty}}
 		<p>5 üzerinden {{ page.rating }}</p>
 	{{ endif }}
 	{{ content }}
 	<br/><br/>
-	{{ if page.categories }}
+	{{ unless page.categories == empty }}
 		<h4>Kategoriler:</h4>
 		<p>
 		{{ for category in page.categories }}
