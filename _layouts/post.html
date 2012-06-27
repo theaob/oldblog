@@ -6,7 +6,7 @@ layout: layout
 		<h2>{{ page.title }}</h2>
 		<span class="date">{{ post.date | date: "%d %m %Y" }}</span>
 	</header>
-	{{ unless page.rating == empty}}
+	{{ if page.rating != null}}
 		<p>5 üzerinden {{ page.rating }}</p>
 	{{ endif }}
 	{{ content }}
@@ -18,7 +18,7 @@ layout: layout
 			{{ category }}&nbsp;
 		{{ endfor }}
 		</p>
-	{{ endif }}
+	{{ endunless }}
 </article>
 <br/>
 {% if page.comments == true %}
