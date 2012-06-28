@@ -5,6 +5,7 @@ date: 2010-12-20 13:54
 comments: true
 categories: ['kitap']
 rating: 4
+tile: large
 ---
 <script src="http://www.idefix.com/ncsi/productinfo.js" type="text/javascript"></script> <script type="text/javascript">// < ![CDATA[
 _getProduct('D6YVE6N8M1SPL8CR3Y3J','81355','http:\/\/www.idefix.com')

@@ -8,7 +8,7 @@ title: Onur Baykal Blog
 			{% if post.categories contains 'sinema' %}
 				<a href="{{ post.url }}"><div class="tile one bluebg"><h2>{{ post.title }}</h2></div></a>
 			{% elsif post.categories contains 'kitap' %}
-				{% if post.title | size > 32 %}
+				{% if post.tile %}
 				<a href="{{ post.url }}"><div class="tile two-h limebg"><h2>{{ post.title }}</h2></div></a>
 				{% else %}
 				<a href="{{ post.url }}"><div class="tile one limebg"><h2>{{ post.title }}</h2></div></a>
