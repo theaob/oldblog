@@ -5,7 +5,7 @@ title: Onur Baykal Blog
 <div class="tiles" style="width:80%; margin-left:10%;">
 	<div class="tilerow">
 		{% for post in paginator.posts %}
-			{% if post.category contains 'sinema' %}
+			{% if post.category contains sinema %}
 				<a href="{{ post.url }}"><div class="tile one bluebg"><h2>{{ post.title }}</h2></div></a>
 			{% elsif post.category contains 'kitap' %}
 				<a href="{{ post.url }}"><div class="tile two-h limebg"><h2>{{ post.title }}</h2></div></a>
