@@ -1,6 +1,6 @@
 ---
 layout: post
-title: W., The International, Ghosts of Girlfriends Past ve Anvil: The Story Of Anvil
+title: 'W., The International, Ghosts of Girlfriends Past ve Anvil: The Story Of Anvil'
 date: 2009-08-12 23:04
 comments: true
 categories: ['sinema']
