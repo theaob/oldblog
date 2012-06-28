@@ -6,7 +6,7 @@ comments: true
 categories: ['sinema']
 rating: 4
 ---
-<img class="lef" src="http://onurbaykal.com/uploads/2010/12/shrek-forever-after.jpg" alt=""/>
+<img class="left" src="http://onurbaykal.com/uploads/2010/12/shrek-forever-after.jpg" alt=""/>
 Shrek serisi uzun zamandır hayatımızda. Açıkçası bu filmde artık işi paraya döktüklerini hissetmeye başladım. 3. filmde bitmesi gereken bir konu işleniyor. Shrek'in orta yaş sendromu pek ilgimi çekmiyor ondan olabilir. Kötülediğime bakmayın film yine de güzel. Shrek'ler hiçbir zaman sürekli güldüren filmler değildi, hala da değil. Tüm aileye yönelik keyifli seyir sunuyorlar sadece. Seriyi izlemişseniz bunu da izleyin. Bu filmi izlememek gibi bir şansınız yoksa da izlemek için çok acele etmenize gerek yok diyebilirim.
 
 <h3>Fragman</h3>
