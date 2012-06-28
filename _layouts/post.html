@@ -6,8 +6,8 @@ layout: layout
 		<h2>{{ page.title }}</h2>
 		<span class="date">{{ post.date | date: "%d %m %Y" }}</span>
 	</header>
-	{% if page.rating != empty%}
-		<p>5 üzerinden {{ page.rating }}</p>
+	{% if page.rating  %}
+		<p>{{ page.rating }} / 5</p>
 	{% endif %}
 	{{ content }}
 	<br/><br/>
