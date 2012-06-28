@@ -4,30 +4,27 @@ title: Onur Baykal Blog
 ---
 <div class="tiles" style="width:80%; margin-left:10%;">
 	<div class="tilerow">
-		{% for post in paginator.posts %}
-			{% if post.categories contains 'sinema' %}
-				{% if post.tile %}
-				<a href="{{ post.url }}"><div class="tile two-h bluebg"><h2>{{ post.title }}</h2></div></a>
-				{% else %}
-				<a href="{{ post.url }}"><div class="tile one bluebg"><h2>{{ post.title }}</h2></div></a>
-				{% endif %}
-			{% elsif post.categories contains 'kitap' %}
-				{% if post.tile %}
-				<a href="{{ post.url }}"><div class="tile two-h limebg"><h2>{{ post.title }}</h2></div></a>
-				{% else %}
-				<a href="{{ post.url }}"><div class="tile one limebg"><h2>{{ post.title }}</h2></div></a>
-				{% endif %}
-			{% else %}
-				{% if post.tile %}
-				<a href="{{ post.url }}"><div class="tile two-h tealbg"><h2>{{ post.title }}</h2></div></a>
-				{% else %}
-				<a href="{{ post.url }}"><div class="tile one tealbg"><h2>{{ post.title }}</h2></div></a>
-				{% endif %}
-			{% endif %}
-		{% endfor %}
-		{% for post in paginator.posts limit:3 offset:1 %}
-			
-		{% endfor %}
+{% for post in paginator.posts %}
+{% if post.categories contains 'sinema' %}
+{% if post.tile %}
+<a href="{{ post.url }}"><div class="tile two-h bluebg"><h2>{{ post.title }}</h2></div></a>
+{% else %}
+<a href="{{ post.url }}"><div class="tile one bluebg"><h2>{{ post.title }}</h2></div></a>
+{% endif %}
+{% elsif post.categories contains 'kitap' %}
+{% if post.tile %}
+<a href="{{ post.url }}"><div class="tile two-h limebg"><h2>{{ post.title }}</h2></div></a>
+{% else %}
+<a href="{{ post.url }}"><div class="tile one limebg"><h2>{{ post.title }}</h2></div></a>
+{% endif %}
+{% else %}
+{% if post.tile %}
+<a href="{{ post.url }}"><div class="tile two-h tealbg"><h2>{{ post.title }}</h2></div></a>
+{% else %}
+<a href="{{ post.url }}"><div class="tile one tealbg"><h2>{{ post.title }}</h2></div></a>
+{% endif %}
+{% endif %}
+{% endfor %}
 	</div>
 </div>
 
