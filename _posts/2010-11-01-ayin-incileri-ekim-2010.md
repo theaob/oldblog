@@ -1,9 +1,9 @@
 ﻿---
 layout: post
-title: Ay&#305;n &#304;ncileri: Ekim 2010
+title: "Ayın İncileri: Ekim 2010"
 date: 2010-11-01 14:24
 comments: true
-categories: []
+categories: ['absürd']
 ---
 Yine ayın o zamanına geldik. Bu ay da elbet ilginç aramalar var. Bu kelimelerin ne olduğunu tekrar hatırlatayım: her ay sonunda o ay içerisinde google'da aratıp benim bloga gelen ilginç aramaları listeliyorum. Pek çoğu ayıklanmış bu sonuçların. İlginç olanları da ay başında yazıyorum. Olay budur. Tabii noktasına dahi dokunmadığımı belirtmek isterim.
 <ul>
