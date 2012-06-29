@@ -1,9 +1,9 @@
-﻿---
+---
 layout: post
 title: Superonline Fiberoptik G&uuml;nl&uuml;kleri #1 
 date: 2010-11-29 10:57
 comments: true
-categories: []
+categories: ['teknoloji']
 ---
 <img class="alignleft size-full wp-image-2103" title="superonline_logo" src="http://onurbaykal.com.tr/wp-content/uploads/2010/11/logo.gif" alt="" width="280" height="128" />Yaklaşık 2 senedir Koç.net Biri kullanıyorum. Biri'yi seçme nedenimse sözleşme olmadan rahat rahat kullanabilmemdi. Fakat son zamanlarda sık sık bağlantı kesilmeleri, yavaşlıklar yaşamaya başladım. Tamam benim bağlantılarımdan da kaynaklı problemler vardı ama herhangi bir destek sağlamadılar. Ayrıca fatura ödeme konusunda bazı soruları vardı. İnternetten ödediğimde sistemlerinde gözükmeyebiliyordu. Normal kullanımda çok da kritik değil internetin olmaması ama okul dönemi çok ihtiyaç duyabiliyorum. O dönemlerde internet bağlantısındaki bu dalgalanmalar beni çılgına çeviriyor. Ben de hem hız hem de stabilite açısından rahat etmek için bir süredir fiberoptiğe geçmeyi düşünüyordum.
 
