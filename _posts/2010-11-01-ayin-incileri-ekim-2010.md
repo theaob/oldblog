@@ -1,6 +1,6 @@
-﻿---
+---
 layout: post
-title: "Ayın İncileri: Ekim 2010"
+title: 'Ayın İncileri: Ekim 2010'
 date: 2010-11-01 14:24
 comments: true
 categories: ['absürd']
