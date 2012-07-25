@@ -3,7 +3,7 @@ layout: post
 title: Disaster Movie Geliyor
 date: 2008-07-06 18:13
 comments: true
-categories: []
+categories: ['sine]
 ---
 <img class="alignleft" src="http://upload.wikimedia.org/wikipedia/en/a/af/Disaster_movie.jpg" alt="" width="153" height="226" />
 

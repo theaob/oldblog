@@ -3,12 +3,10 @@ layout: post
 title: In Bruges (Yorum)
 date: 2008-07-09 23:51
 comments: true
-categories: []
+categories: ['sinema']
+rating: 5
 ---
-<h3>5/5 imdb puanı : 8.1 (yazarın seçimi)</h3>
 Şu an tatildeyim ve film izlemek çok zor oluyor. Sıcaktan ve güneşten evin içinde bilgisayarı açmıyorum. Gece ise gürültüden ve benim oyalanmalarım yüzünden sıra gelmiyor. Ama sonunda bir fırsat bulup film izledim. Gerçekten izlediğime değdi. Bundan sonra filmi izlemeyenleri düşünüp filmle ilgili yorumları yazının devamına ekleyeceğim. Yazının devamı oku yazan yere tıklarsanız yorumlarımı okuyabilirsiniz. Kimseden şikayet gelmeden bunu yapıyorum. Eski yazılara da bunu uygulayacağım.
-
-<!--more-->
 
 In Bruges gerçekten güzel bir film. İlk görevi sırasında yanlışlıkla bir çocuğu da öldüren bir suikasçinin hikayesi anlatılıyor. Açıkçası ben film hakkında hiçbir bilgim olmadan izledim ve böyle bir film beklemiyordum. Önce ilgi çekici bir film gibi göründü sonra ise gerçekten kaliteli bir film olduğunu gösterdi. Açıkçası senaryoyu çok beğendim. Ray'in kilisede çocuğu yanlışlıkla öldürmesi ve bunun Harry tarafından tekrarlanması çok ironik. Aslında film boyunca buna benzer şeyler gözünüze çok çarpıyor.  Ken'in kuleden Ray'i vuruyormuş gibi yapıp daha sonra Ray'i öldürme görevi verilmesi, Ken'i 0.10 € eksik diye kuleye almayan adamı Harry'nin benzetmesi, şişman Amerikalılara kuleye çıkmayın denilmesi ve o Amerikalıların kulede kalp krizi geçirmeleri, cücenin başına gelenler... Bütün bu olaylar benim film zevkimi arttırdı.
 
