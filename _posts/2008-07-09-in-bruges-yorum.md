@@ -1,6 +1,6 @@
 ---
 layout: post
-title: In Bruges (Yorum)
+title: In Bruges
 date: 2008-07-09 23:51
 comments: true
 categories: ['sinema']
