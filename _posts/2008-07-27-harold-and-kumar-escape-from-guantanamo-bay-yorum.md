@@ -5,7 +5,7 @@ date: 2008-07-27 09:45
 comments: true
 categories: ['sinema']
 rating: 2
-title: large
+tile: large
 ---
 İnanamayabilirsiniz ama bu filmi izledim. O berbat afişten sonra aslında izlemeyi hiç düşünmüyordum. Ancak can sıkıntısı işte insan saçma şeylere yönelebiliyor. Aslında bu filmi çok kısa cümlelerle de anlatabilirim ancak siteye daha çok ziyaretçi çekmek için (açıkça söyleyeyim yani sizden gizlimiz saklımız yok) daha uzun yazılar yazıyorum. Fakat yine de hangi yazının daha popüler olduğunu anlamanın en kolay yolu yazıyı ikiye bölmek o yüzden yazının devamını okumak istiyorsanız bu cümlenin sonundaki linke tıklayın.
 
