@@ -1,14 +1,12 @@
 ---
 layout: post
-title: Across The Universe (Yorum)
+title: Across The Universe
 date: 2008-08-13 13:32
 comments: true
-categories: []
+categories: ['sinema']
+rating: 5
 ---
-<h3>5/5 Drama/Müzikal imdb puanı:7.6</h3>
 Muhtemelen bildiğiniz gibi dünyanın en ünlü grubu Beatles'dır. Kendi dönemlerini kasıp kavurmakla kalmamış bugün bile en çok dinlenen grup olduğu tahmin edilmektedir. Size bu filmle ilgili kısa bir öneri vereyim: Beatles'la alakanız yoksa bu filmi izlemeyin. Film tamamen Beatles müzikleri üzerine kurulmuş. Sözleri bilmiyorsanız şarkıların Beatles olduğunu anlamayabilirsiniz. Hatta belki filmi beğenmeyebilirsiniz bile ama Beatles'ın şarkı sözlerini de biliyorsanız film tadından yenmiyor. Neyse daha vurucu yorumlarıma yazının devamında yer vereceğim.
-
-<!--more-->
 
 Aslında ben filme beklentisiz ve cahiliyetle başladım. Film hakkında hiç bir fikrim yoktu. Sadece filmin adıyla aynı bir Beatles şarkısı olduğunu biliyordum. Hatta filmi izlemeden önce Across The Universe şarkısını da dinledim (bu şarkı NASA tarafından derin uzaya dinletilmiştir). Film başta sıkıcı bir romantik müzikal gibi geldi. Hatta ben film iki farklı dönemde geçiyor sandım. Filmin ana karakterlerinden biri Amerikalı diğeri İngiliz olunca ve İngiltere o günden bu güne pek değişmediği için ben farklı dönemlerde geçiyor sandım. Fakat daha sonra bu iki karakterin yolları kesişti.
 
